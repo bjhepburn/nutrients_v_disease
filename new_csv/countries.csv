@@ -1,0 +1,218 @@
+Country_ID,Country,Income group,Region,Lending category,2017,2018,2019,2020
+0,Aruba,High income,Latin America & Caribbean,,27120.0,,,
+1,Afghanistan,Low income,South Asia,IDA,530.0,520.0,530.0,500.0
+2,Angola,Lower middle income,Sub-Saharan Africa,IBRD,3450.0,3210.0,2970.0,2230.0
+3,Albania,Upper middle income,Europe & Central Asia,IBRD,4290.0,4860.0,5220.0,5210.0
+4,Andorra,High income,Europe & Central Asia,,,,,
+5,United Arab Emirates,High income,Middle East & North Africa,,39290.0,41470.0,43470.0,
+6,Argentina,Upper middle income,Latin America & Caribbean,IBRD,13140.0,12370.0,11130.0,8930.0
+7,Armenia,Upper middle income,Europe & Central Asia,IBRD,3950.0,4250.0,4680.0,4220.0
+8,American Samoa,Upper middle income,East Asia & Pacific,,,,,
+9,Antigua and Barbuda,High income,Latin America & Caribbean,IBRD,14320.0,15880.0,16160.0,14250.0
+10,Australia,High income,East Asia & Pacific,,51560.0,53190.0,55100.0,53730.0
+11,Austria,High income,Europe & Central Asia,,45090.0,49090.0,51440.0,
+12,Azerbaijan,Upper middle income,Europe & Central Asia,IBRD,4090.0,4060.0,4490.0,4450.0
+13,Burundi,Low income,Sub-Saharan Africa,IDA,280.0,280.0,280.0,270.0
+14,Belgium,High income,Europe & Central Asia,,42510.0,46110.0,48010.0,
+15,Benin,Lower middle income,Sub-Saharan Africa,IDA,1090.0,1200.0,1250.0,1280.0
+16,Burkina Faso,Low income,Sub-Saharan Africa,IDA,670.0,750.0,780.0,790.0
+17,Bangladesh,Lower middle income,South Asia,IDA,1520.0,1750.0,1940.0,2010.0
+18,Bulgaria,Upper middle income,Europe & Central Asia,IBRD,7640.0,8560.0,9570.0,9540.0
+19,Bahrain,High income,Middle East & North Africa,,21250.0,21910.0,22170.0,
+20,"Bahamas, The",High income,Latin America & Caribbean,,30900.0,31990.0,33460.0,27780.0
+21,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,IBRD,5120.0,5750.0,6180.0,6090.0
+22,Belarus,Upper middle income,Europe & Central Asia,IBRD,5300.0,5700.0,6370.0,6330.0
+23,Belize,Lower middle income,Latin America & Caribbean,IBRD,4420.0,4550.0,4700.0,3970.0
+24,Bermuda,High income,North America,,112940.0,117000.0,117740.0,
+25,Bolivia,Lower middle income,Latin America & Caribbean,IBRD,3090.0,3370.0,3520.0,3200.0
+26,Brazil,Upper middle income,Latin America & Caribbean,IBRD,8700.0,9170.0,9270.0,7850.0
+27,Barbados,High income,Latin America & Caribbean,,16070.0,16700.0,17380.0,14460.0
+28,Brunei Darussalam,High income,East Asia & Pacific,,29800.0,29390.0,32230.0,
+29,Bhutan,Lower middle income,South Asia,IDA,2800.0,2970.0,3140.0,2860.0
+30,Botswana,Upper middle income,Sub-Saharan Africa,IBRD,6690.0,7340.0,7660.0,6640.0
+31,Central African Republic,Low income,Sub-Saharan Africa,IDA,440.0,490.0,520.0,510.0
+32,Canada,High income,North America,,42900.0,44950.0,46460.0,43440.0
+33,Switzerland,High income,Europe & Central Asia,,81520.0,85030.0,87950.0,
+34,Channel Islands,High income,Europe & Central Asia,,,,,
+35,Chile,High income,Latin America & Caribbean,IBRD,13270.0,14550.0,14990.0,13470.0
+36,China,Upper middle income,East Asia & Pacific,IBRD,8740.0,9600.0,10390.0,10610.0
+37,Cote d'Ivoire,Lower middle income,Sub-Saharan Africa,IDA,2030.0,2180.0,2290.0,2280.0
+38,Cameroon,Lower middle income,Sub-Saharan Africa,Blend,1340.0,1450.0,1500.0,1500.0
+39,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa,IDA,460.0,500.0,530.0,550.0
+40,"Congo, Rep.",Lower middle income,Sub-Saharan Africa,Blend,1700.0,1790.0,1810.0,1830.0
+41,Colombia,Upper middle income,Latin America & Caribbean,IBRD,5930.0,6260.0,6580.0,5780.0
+42,Comoros,Lower middle income,Sub-Saharan Africa,IDA,1280.0,1380.0,1400.0,1450.0
+43,Cabo Verde,Lower middle income,Sub-Saharan Africa,Blend,3080.0,3400.0,3630.0,3060.0
+44,Costa Rica,Upper middle income,Latin America & Caribbean,IBRD,11500.0,11930.0,12070.0,11460.0
+45,Cuba,Upper middle income,Latin America & Caribbean,,,,,
+46,Curacao,High income,Latin America & Caribbean,,19100.0,20100.0,20370.0,
+47,Cayman Islands,High income,Latin America & Caribbean,,52840.0,59380.0,68200.0,
+48,Cyprus,High income,Europe & Central Asia,,24710.0,26990.0,27930.0,26110.0
+49,Czech Republic,High income,Europe & Central Asia,,18310.0,20520.0,21930.0,
+50,Germany,High income,Europe & Central Asia,,43700.0,47190.0,48600.0,46990.0
+51,Djibouti,Lower middle income,Middle East & North Africa,IDA,2990.0,3260.0,3310.0,3320.0
+52,Dominica,Upper middle income,Latin America & Caribbean,Blend,7250.0,7680.0,7870.0,6870.0
+53,Denmark,High income,Europe & Central Asia,,56690.0,61340.0,64000.0,62720.0
+54,Dominican Republic,Upper middle income,Latin America & Caribbean,IBRD,7090.0,7780.0,8100.0,7260.0
+55,Algeria,Lower middle income,Middle East & North Africa,IBRD,3940.0,3980.0,4010.0,3550.0
+56,Ecuador,Upper middle income,Latin America & Caribbean,IBRD,5860.0,6090.0,6100.0,5530.0
+57,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,IBRD,3030.0,2790.0,2690.0,3000.0
+58,Eritrea,Low income,Sub-Saharan Africa,IDA,,,,
+59,Spain,High income,Europe & Central Asia,,27100.0,29360.0,30360.0,
+60,Estonia,High income,Europe & Central Asia,,18850.0,21340.0,23250.0,
+61,Ethiopia,Low income,Sub-Saharan Africa,IDA,740.0,800.0,850.0,890.0
+62,Finland,High income,Europe & Central Asia,,44840.0,48290.0,50010.0,49620.0
+63,Fiji,Upper middle income,East Asia & Pacific,Blend,5370.0,5910.0,5800.0,4720.0
+64,France,High income,Europe & Central Asia,,38320.0,41130.0,42330.0,
+65,Faeroe Islands,High income,Europe & Central Asia,,,,,
+66,"Micronesia, Fed. Sts.",Lower middle income,East Asia & Pacific,IDA,3450.0,3400.0,4010.0,
+67,Gabon,Upper middle income,Sub-Saharan Africa,IBRD,6510.0,6830.0,7170.0,6970.0
+68,United Kingdom,High income,Europe & Central Asia,,41280.0,41740.0,42130.0,
+69,Georgia,Upper middle income,Europe & Central Asia,IBRD,4040.0,4460.0,4690.0,4290.0
+70,Ghana,Lower middle income,Sub-Saharan Africa,IDA,1870.0,2120.0,2210.0,2230.0
+71,Gibraltar,High income,Europe & Central Asia,,,,,
+72,Guinea,Low income,Sub-Saharan Africa,IDA,820.0,860.0,950.0,1020.0
+73,"Gambia, The",Low income,Sub-Saharan Africa,IDA,660.0,720.0,750.0,750.0
+74,Guinea-Bissau,Low income,Sub-Saharan Africa,IDA,680.0,720.0,800.0,760.0
+75,Equatorial Guinea,Upper middle income,Sub-Saharan Africa,IBRD,6510.0,6730.0,6280.0,5810.0
+76,Greece,High income,Europe & Central Asia,,17970.0,19070.0,19710.0,
+77,Grenada,Upper middle income,Latin America & Caribbean,Blend,8740.0,9560.0,9830.0,8740.0
+78,Greenland,High income,Europe & Central Asia,,,,,
+79,Guatemala,Upper middle income,Latin America & Caribbean,IBRD,4100.0,4400.0,4610.0,4490.0
+80,Guam,High income,East Asia & Pacific,,,,,
+81,Guyana,Upper middle income,Latin America & Caribbean,IDA,5910.0,6290.0,6630.0,6600.0
+82,"Hong Kong SAR, China",High income,East Asia & Pacific,,46390.0,50060.0,50480.0,48630.0
+83,Honduras,Lower middle income,Latin America & Caribbean,IDA,2250.0,2330.0,2390.0,2200.0
+84,Croatia,High income,Europe & Central Asia,IBRD,12680.0,14080.0,14990.0,14190.0
+85,Haiti,Lower middle income,Latin America & Caribbean,IDA,1310.0,1360.0,1330.0,1250.0
+86,Hungary,High income,Europe & Central Asia,,13190.0,15010.0,16530.0,
+87,Indonesia,Lower middle income,East Asia & Pacific,IBRD,3530.0,3840.0,4050.0,3870.0
+88,Isle of Man,High income,Europe & Central Asia,,77890.0,83160.0,,
+89,India,Lower middle income,South Asia,IBRD,1820.0,2010.0,2120.0,1900.0
+90,Ireland,High income,Europe & Central Asia,,53810.0,60520.0,63530.0,
+91,"Iran, Islamic Rep.",Lower middle income,Middle East & North Africa,IBRD,5420.0,4530.0,3640.0,2870.0
+92,Iraq,Upper middle income,Middle East & North Africa,IBRD,4670.0,4840.0,5490.0,4660.0
+93,Iceland,High income,Europe & Central Asia,,60230.0,67760.0,72930.0,
+94,Israel,High income,Middle East & North Africa,,37580.0,40840.0,43070.0,
+95,Italy,High income,Europe & Central Asia,,31370.0,33850.0,34860.0,32200.0
+96,Jamaica,Upper middle income,Latin America & Caribbean,IBRD,4750.0,5010.0,5260.0,4620.0
+97,Jordan,Upper middle income,Middle East & North Africa,IBRD,4080.0,4270.0,4410.0,4310.0
+98,Japan,High income,East Asia & Pacific,,38490.0,41150.0,41580.0,
+99,Kazakhstan,Upper middle income,Europe & Central Asia,IBRD,8040.0,8070.0,8820.0,8680.0
+100,Kenya,Lower middle income,Sub-Saharan Africa,Blend,1420.0,1600.0,1750.0,1760.0
+101,Kyrgyz Republic,Lower middle income,Europe & Central Asia,IDA,1110.0,1220.0,1240.0,1160.0
+102,Cambodia,Lower middle income,East Asia & Pacific,IDA,1230.0,1380.0,1530.0,1490.0
+103,Kiribati,Lower middle income,East Asia & Pacific,IDA,3020.0,3080.0,3340.0,3010.0
+104,St. Kitts and Nevis,High income,Latin America & Caribbean,IBRD,17240.0,18520.0,19130.0,17400.0
+105,"Korea, Rep.",High income,East Asia & Pacific,,30300.0,32730.0,33790.0,32860.0
+106,Kuwait,High income,Middle East & North Africa,,31400.0,33430.0,36290.0,
+107,Lao PDR,Lower middle income,East Asia & Pacific,IDA,2240.0,2450.0,2490.0,2480.0
+108,Lebanon,Upper middle income,Middle East & North Africa,IBRD,7470.0,7710.0,7420.0,5510.0
+109,Liberia,Low income,Sub-Saharan Africa,IDA,620.0,610.0,580.0,530.0
+110,Libya,Upper middle income,Middle East & North Africa,IBRD,5410.0,6800.0,7640.0,4850.0
+111,St. Lucia,Upper middle income,Latin America & Caribbean,Blend,10080.0,10700.0,11080.0,8790.0
+112,Liechtenstein,High income,Europe & Central Asia,,,,,
+113,Sri Lanka,Lower middle income,South Asia,IBRD,3870.0,4040.0,4010.0,3720.0
+114,Lesotho,Lower middle income,Sub-Saharan Africa,IDA,1190.0,1230.0,1290.0,1100.0
+115,Lithuania,High income,Europe & Central Asia,,15280.0,17460.0,19020.0,
+116,Luxembourg,High income,Europe & Central Asia,,66460.0,70930.0,,
+117,Latvia,High income,Europe & Central Asia,,14850.0,16540.0,17740.0,
+118,"Macao SAR, China",High income,East Asia & Pacific,,69980.0,76510.0,75610.0,
+119,St. Martin (French part),High income,Latin America & Caribbean,,,,,
+120,Morocco,Lower middle income,Middle East & North Africa,IBRD,2880.0,3090.0,3200.0,2980.0
+121,Monaco,High income,Europe & Central Asia,,,,,
+122,Moldova,Upper middle income,Europe & Central Asia,IBRD,3330.0,3920.0,4580.0,4570.0
+123,Madagascar,Low income,Sub-Saharan Africa,IDA,470.0,500.0,510.0,480.0
+124,Maldives,Upper middle income,South Asia,IDA,8600.0,9210.0,9670.0,6830.0
+125,Mexico,Upper middle income,Latin America & Caribbean,IBRD,8920.0,9180.0,9480.0,8480.0
+126,Marshall Islands,Upper middle income,East Asia & Pacific,IDA,4390.0,4780.0,5010.0,
+127,North Macedonia,Upper middle income,Europe & Central Asia,IBRD,4920.0,5490.0,5840.0,5720.0
+128,Mali,Low income,Sub-Saharan Africa,IDA,770.0,830.0,870.0,830.0
+129,Malta,High income,Middle East & North Africa,,24140.0,27090.0,28340.0,25370.0
+130,Myanmar,Lower middle income,East Asia & Pacific,IDA,1200.0,1280.0,1360.0,1260.0
+131,Montenegro,Upper middle income,Europe & Central Asia,IBRD,7410.0,8450.0,9070.0,7900.0
+132,Mongolia,Lower middle income,East Asia & Pacific,IBRD,3230.0,3630.0,3790.0,3670.0
+133,Northern Mariana Islands,High income,East Asia & Pacific,,,,,
+134,Mozambique,Low income,Sub-Saharan Africa,IDA,470.0,460.0,490.0,460.0
+135,Mauritania,Lower middle income,Sub-Saharan Africa,IDA,1500.0,1580.0,1660.0,1640.0
+136,Mauritius,Upper middle income,Sub-Saharan Africa,IBRD,10980.0,12270.0,12900.0,10230.0
+137,Malawi,Low income,Sub-Saharan Africa,IDA,370.0,430.0,550.0,580.0
+138,Malaysia,Upper middle income,East Asia & Pacific,IBRD,9950.0,10650.0,11230.0,10580.0
+139,Namibia,Upper middle income,Sub-Saharan Africa,IBRD,4620.0,4950.0,5180.0,4520.0
+140,New Caledonia,High income,East Asia & Pacific,,,,,
+141,Niger,Low income,Sub-Saharan Africa,IDA,520.0,570.0,600.0,540.0
+142,Nigeria,Lower middle income,Sub-Saharan Africa,Blend,2090.0,1960.0,2030.0,2000.0
+143,Nicaragua,Lower middle income,Latin America & Caribbean,IDA,2030.0,1970.0,1900.0,1850.0
+144,Netherlands,High income,Europe & Central Asia,,47160.0,51310.0,53060.0,
+145,Norway,High income,Europe & Central Asia,,75650.0,80320.0,81620.0,78250.0
+146,Nepal,Lower middle income,South Asia,IDA,990.0,1120.0,1230.0,1190.0
+147,Nauru,High income,East Asia & Pacific,IBRD,12370.0,14320.0,16630.0,
+148,New Zealand,High income,East Asia & Pacific,,38780.0,41790.0,42450.0,
+149,Oman,High income,Middle East & North Africa,,13970.0,14110.0,14150.0,
+150,Pakistan,Lower middle income,South Asia,Blend,1400.0,1480.0,1410.0,1280.0
+151,Panama,Upper middle income,Latin America & Caribbean,IBRD,13750.0,14480.0,14900.0,11880.0
+152,Peru,Upper middle income,Latin America & Caribbean,IBRD,6060.0,6470.0,6790.0,6010.0
+153,Philippines,Lower middle income,East Asia & Pacific,IBRD,3530.0,3710.0,3850.0,3430.0
+154,Palau,High income,East Asia & Pacific,IBRD,16650.0,17810.0,16500.0,
+155,Papua New Guinea,Lower middle income,East Asia & Pacific,Blend,2590.0,2600.0,2750.0,2660.0
+156,Poland,High income,Europe & Central Asia,IBRD,12730.0,14150.0,15350.0,15270.0
+157,Puerto Rico,High income,Latin America & Caribbean,,20000.0,21080.0,22060.0,21740.0
+158,"Korea, Dem. Rep.",Low income,East Asia & Pacific,,,,,
+159,Portugal,High income,Europe & Central Asia,,20060.0,22060.0,23170.0,22000.0
+160,Paraguay,Upper middle income,Latin America & Caribbean,IBRD,5370.0,5600.0,5510.0,5140.0
+161,West Bank and Gaza,Lower middle income,Middle East & North Africa,,3930.0,4190.0,4270.0,3710.0
+162,French Polynesia,High income,East Asia & Pacific,,,,,
+163,Qatar,High income,Middle East & North Africa,,56920.0,58830.0,61180.0,56210.0
+164,Romania,Upper middle income,Europe & Central Asia,IBRD,10110.0,11430.0,12610.0,12570.0
+165,Russian Federation,Upper middle income,Europe & Central Asia,IBRD,9210.0,10250.0,11250.0,10690.0
+166,Rwanda,Low income,Sub-Saharan Africa,IDA,730.0,780.0,830.0,780.0
+167,Saudi Arabia,High income,Middle East & North Africa,,19990.0,21610.0,22840.0,21930.0
+168,Sudan,Low income,Sub-Saharan Africa,IDA,1310.0,1040.0,820.0,650.0
+169,Senegal,Lower middle income,Sub-Saharan Africa,IDA,1280.0,1390.0,1430.0,1430.0
+170,Singapore,High income,East Asia & Pacific,,54460.0,56900.0,58390.0,54920.0
+171,Solomon Islands,Lower middle income,East Asia & Pacific,IDA,2220.0,2360.0,2370.0,2300.0
+172,Sierra Leone,Low income,Sub-Saharan Africa,IDA,520.0,490.0,540.0,490.0
+173,El Salvador,Lower middle income,Latin America & Caribbean,IBRD,3600.0,3820.0,3990.0,3650.0
+174,San Marino,High income,Europe & Central Asia,,,,,
+175,Somalia,Low income,Sub-Saharan Africa,IDA,290.0,310.0,320.0,310.0
+176,Serbia,Upper middle income,Europe & Central Asia,IBRD,5570.0,6410.0,7030.0,7400.0
+177,South Sudan,Low income,Sub-Saharan Africa,IDA,,,,
+178,Sao Tome and Principe,Lower middle income,Sub-Saharan Africa,IDA,1700.0,1870.0,1950.0,2070.0
+179,Suriname,Upper middle income,Latin America & Caribbean,IBRD,5930.0,5960.0,6340.0,5510.0
+180,Slovak Republic,High income,Europe & Central Asia,,16620.0,18330.0,19220.0,18700.0
+181,Slovenia,High income,Europe & Central Asia,,22140.0,24610.0,25940.0,
+182,Sweden,High income,Europe & Central Asia,,53030.0,55640.0,56090.0,53800.0
+183,Eswatini,Lower middle income,Sub-Saharan Africa,IBRD,3390.0,3620.0,3670.0,3580.0
+184,Sint Maarten (Dutch part),High income,Latin America & Caribbean,,28210.0,27680.0,,
+185,Seychelles,High income,Sub-Saharan Africa,IBRD,14350.0,15440.0,15930.0,12720.0
+186,Syrian Arab Republic,Low income,Middle East & North Africa,IDA,,,,
+187,Turks and Caicos Islands,High income,Latin America & Caribbean,,26200.0,28340.0,30700.0,
+188,Chad,Low income,Sub-Saharan Africa,IDA,640.0,680.0,700.0,660.0
+189,Togo,Low income,Sub-Saharan Africa,IDA,720.0,880.0,920.0,920.0
+190,Thailand,Upper middle income,East Asia & Pacific,IBRD,5970.0,6610.0,7260.0,7050.0
+191,Tajikistan,Lower middle income,Europe & Central Asia,IDA,1030.0,1030.0,1070.0,1060.0
+192,Turkmenistan,Upper middle income,Europe & Central Asia,IBRD,6380.0,6740.0,7220.0,
+193,Timor-Leste,Lower middle income,East Asia & Pacific,Blend,1780.0,1800.0,2020.0,1830.0
+194,Tonga,Upper middle income,East Asia & Pacific,IDA,4590.0,4800.0,5000.0,
+195,Trinidad and Tobago,High income,Latin America & Caribbean,IBRD,15980.0,15990.0,16580.0,15410.0
+196,Tunisia,Lower middle income,Middle East & North Africa,IBRD,3520.0,3500.0,3340.0,3100.0
+197,Turkey,Upper middle income,Europe & Central Asia,IBRD,10970.0,10510.0,9690.0,9050.0
+198,Tuvalu,Upper middle income,East Asia & Pacific,IDA,4810.0,5440.0,5620.0,5820.0
+199,Tanzania,Lower middle income,Sub-Saharan Africa,IDA,970.0,1030.0,1100.0,1080.0
+200,Uganda,Low income,Sub-Saharan Africa,IDA,740.0,750.0,780.0,800.0
+201,Ukraine,Lower middle income,Europe & Central Asia,IBRD,2380.0,2800.0,3370.0,3540.0
+202,Uruguay,High income,Latin America & Caribbean,IBRD,15920.0,17270.0,17740.0,15830.0
+203,United States,High income,North America,,59460.0,63510.0,65910.0,
+204,Uzbekistan,Lower middle income,Europe & Central Asia,Blend,2350.0,2020.0,1800.0,1670.0
+205,St. Vincent and the Grenadines,Upper middle income,Latin America & Caribbean,Blend,6990.0,7400.0,7460.0,7340.0
+206,"Venezuela, RB",,Latin America & Caribbean,IBRD,,,,
+207,British Virgin Islands,High income,Latin America & Caribbean,,,,,
+208,Virgin Islands (U.S.),High income,Latin America & Caribbean,,,,,
+209,Vietnam,Lower middle income,East Asia & Pacific,IBRD,2130.0,2380.0,2590.0,2660.0
+210,Vanuatu,Lower middle income,East Asia & Pacific,IDA,2860.0,3110.0,3360.0,2780.0
+211,Samoa,Lower middle income,East Asia & Pacific,IDA,4070.0,4030.0,4200.0,4070.0
+212,Kosovo,Upper middle income,Europe & Central Asia,IDA,3960.0,4340.0,4690.0,4440.0
+213,"Yemen, Rep.",Low income,Middle East & North Africa,IDA,1070.0,940.0,,
+214,South Africa,Upper middle income,Sub-Saharan Africa,IBRD,5410.0,5750.0,6040.0,5410.0
+215,Zambia,Lower middle income,Sub-Saharan Africa,IDA,1300.0,1440.0,1430.0,1190.0
+216,Zimbabwe,Lower middle income,Sub-Saharan Africa,Blend,1390.0,1410.0,1200.0,1090.0
